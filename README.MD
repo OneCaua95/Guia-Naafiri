@@ -5,6 +5,7 @@ Este projeto foi criado para aprendizado das linguagens **HTML** e **CSS**.
 ## 💻 Link Do Guia
 
 Segue o link para acessar o site desenvolvido neste repositório:
+https://onecaua95.github.io/Guia-Naafiri/
 
 ## ⚠️ Aviso
 
