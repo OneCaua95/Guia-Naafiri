@@ -1,6 +1,6 @@
 # 🐕 Guia Naafiri
 
-Este projeto foi criado para aprendizado das linguagens **HTML** e **CSS**.
+Este projeto foi criado para aprendizado da linguagenm **HTML**.
 
 ## 💻 Link Do Guia
 
